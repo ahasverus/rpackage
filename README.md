@@ -21,40 +21,16 @@ Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repo
 [![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 <!-- badges: end -->
 
-The goal of the R package `rpackage` is to **{{ PLEASE ADD A FEW LINES
-}}**
+This repository shows the structure of an R package according to best
+practices in the R community. It has been automatically created using
+the package [`rcompendium`](https://github.com/frbcesab/rcompendium).
 
-## Installation
+## Usage
 
-You can install the development version from
-[GitHub](https://github.com/) with:
+This repository can be forked and cloned as a template to develop an R
+package. Alternatively user can install the R package
+[`rcompendium`](https://github.com/frbcesab/rcompendium) and run the
+function `rcompendium::new_package()` to create the same structure.
 
-``` r
-# install.packages("remotes")
-remotes::install_github("ahasverus/rpackage")
-```
-
-Then you can attach the package `rpackage`:
-
-``` r
-library("rpackage")
-```
-
-## Overview
-
-Here is an overview of `rpackage` content: **{{ PLEASE ADD A FEW LINES
-}}**
-
-## Citation
-
-Please cite this package as:
-
-> Casajus Nicolas (2022) rpackage: An R package to **{{ TITLE }}**. R
-> package version 0.0.0.9000.
-
-## Code of Conduct
-
-Please note that the `rpackage` project is released with a [Contributor
-Code of
-Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
-By contributing to this project, you agree to abide by its terms.
+For further information please visit the repository
+[`rcompendium`](https://github.com/frbcesab/rcompendium).
