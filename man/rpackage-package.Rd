@@ -4,9 +4,9 @@
 \name{rpackage-package}
 \alias{rpackage}
 \alias{rpackage-package}
-\title{rpackage: The Title of the Project}
+\title{rpackage: Structure of an R Package}
 \description{
-A paragraph providing a full description of the project (on several lines...)
+Shows the structure of an R package according to best practices in the R community
 }
 \seealso{
 Useful links:

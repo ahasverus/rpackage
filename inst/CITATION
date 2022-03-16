@@ -2,9 +2,9 @@ citHeader("To cite rpackage in publications use:")
 
 bibentry(
   bibtype = "Manual",
-  title   = "rpackage: {An} {R} package to ...",
+  title   = "rpackage: {Structure} of an {R} package",
   author  = c(person("Casajus Nicolas")),
   year    = "2022",
-  note    = "R package version 0.0.0.9000",
+  note    = "R package version 1.0",
   url     = "https://github.com/ahasverus/rpackage"
 )

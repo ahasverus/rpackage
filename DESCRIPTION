@@ -1,15 +1,15 @@
 Package: rpackage
 Type: Package
-Title: The Title of the Project
-Version: 0.0.0.9000
+Title: Structure of an R Package
+Version: 1.0
 Authors@R: c(
     person(given   = "Nicolas",
            family  = "Casajus",
            role    = c("aut", "cre", "cph"),
            email   = "nicolas.casajus@fondationbiodiversite.fr",
            comment = c(ORCID = "0000-0002-5537-5294")))
-Description: A paragraph providing a full description of the project (on 
-    several lines...)
+Description: Shows the structure of an R package according to best practices
+    in the R community
 URL: https://github.com/ahasverus/rpackage
 BugReports: https://github.com/ahasverus/rpackage/issues
 License: GPL (>= 2)
