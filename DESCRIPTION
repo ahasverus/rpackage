@@ -9,7 +9,7 @@ Authors@R: c(
            email   = "nicolas.casajus@fondationbiodiversite.fr",
            comment = c(ORCID = "0000-0002-5537-5294")))
 Description: Shows the structure of an R package according to best practices
-    in the R community
+    in the R community.
 URL: https://github.com/ahasverus/rpackage
 BugReports: https://github.com/ahasverus/rpackage/issues
 License: GPL (>= 2)

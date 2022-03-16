@@ -40,8 +40,10 @@ in the R community. It has been automatically created using the package
 
 
 
-This repository can be forked and cloned as a baseline. Alternatively user
-can install the R package [`rcompendium`](https://github.com/frbcesab/rcompendium)
-and run the function `rcompendium::new_package()`.
+This repository can be forked and cloned as a template to develop an R package.
+Alternatively user can install the R package 
+[`rcompendium`](https://github.com/frbcesab/rcompendium)
+and run the function `rcompendium::new_package()` to create the same structure.
 
-For further information please visit [`rcompendium`](https://github.com/frbcesab/rcompendium).
+For further information please visit the repository 
+[`rcompendium`](https://github.com/frbcesab/rcompendium).

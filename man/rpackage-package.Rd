@@ -6,7 +6,7 @@
 \alias{rpackage-package}
 \title{rpackage: Structure of an R Package}
 \description{
-Shows the structure of an R package according to best practices in the R community
+Shows the structure of an R package according to best practices in the R community.
 }
 \seealso{
 Useful links:
